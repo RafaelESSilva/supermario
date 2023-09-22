@@ -1,0 +1,58 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(71, 128, 212, 0.384);
+}
+.conteiner{
+    max-width: 1400px;
+    background-color: #ffffff8a;
+    position:relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+.bold{
+    font-weight: bold;
+}
+.header{
+    text-align: center;
+
+}
+.main-title{
+    font-size: 40px;
+}
+.mainparagraph{
+    font-size:italic;
+}
+.feature-image{
+    text-align: center;
+    margin-top: 40px;
+}
+.biography-conteiner{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom:1px dashed #ddd;
+}
+.citacao{
+    background-color: #ddd;
+    padding: 30px 0;
+    
+}
+.citacao blockquote{
+    font-weight: bold;
+    font-size: 30 px;
+
+}
+.curiosidades-do-filme{
+    padding: 25px 0;
+    margin: 25px 0;
+    border: 1px dashed #ddd;
+    border: 1px dashed #ddd;
+}
+.img-bold{
+    font-weight: bold;
+    text-align: center;
+}
+.more-information{
+    font-weight: bold;
+    text-align: center;
+}
